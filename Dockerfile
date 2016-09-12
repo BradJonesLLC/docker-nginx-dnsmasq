@@ -1,4 +1,4 @@
-FROM nginx:stable
+FROM nginx:mainline
 
 ENV SUPERVISOR_VERSION 3.3.0
 
