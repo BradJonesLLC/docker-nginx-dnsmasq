@@ -1,5 +1,7 @@
 # Dockerized Nginx with Dnsmasq
 
+[![Docker Automated buil](https://img.shields.io/docker/automated/bradjonesllc/nginx-dnsmasq.svg?maxAge=2592000)](https://hub.docker.com/r/bradjonesllc/nginx-dnsmasq/)
+
 This container provides an Nginx application with Dnsmasq, particularly
 useful if you're using [DNS-based microservices discovery](https://www.nginx.com/blog/dns-service-discovery-nginx-plus/),
 e.g. with [Rancher](https://github.com/rancher/rancher)
